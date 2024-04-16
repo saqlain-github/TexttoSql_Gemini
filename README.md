@@ -26,5 +26,5 @@ To initialize the agent, we'll use the `create_sql_agent` constructor. This agen
 
 ### High Level Design:
 
-![LangChain SQLtoTEXT](docs/HNL.png)
+![LangChain SQLtoTEXT](flowcharts/HNL.png)
 
